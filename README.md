@@ -3,8 +3,10 @@ Repo for Week 11 Challenge of Fintech Course in which I attempt to create variou
 
 ---
 ## Technologies
-This code was written using Python 3.7.13. 
+This code was written using Python 3.7.13. I had to utilize google colab for various purposes, mainly because some of the code is expensive and is better run in the cloud. 
+
 My OS is Ventura 13.2.1 though it should be fine on most others. Note that the CLI in any screenshots may look different on different OSs.
+
 I used conda to manage all of my packages.
 Packages used:
 Prophet
@@ -25,7 +27,7 @@ The goal of this project is to identify historical arbitrage opportunities for b
 
 Code can be found in the following notebook [forecasting_net_prophet.ipynb](https://github.com/wcolwellcol/Mod11Chall/blob/main/forecasting_net_prophet.ipynb).
 
-Data for this project is sourced from three csvs found in the resources folder
+Data for this project is sourced from three csvs found in the [resources](https://github.com/wcolwellcol/Mod11Chall/tree/main/Resources) folder.
 
 
 ## Contributors
